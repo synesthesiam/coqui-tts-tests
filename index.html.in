@@ -1,0 +1,9 @@
+<html lang="en">
+  <head><meta charset="utf-8"><title>🐸TTS/gruut Voice Samples</title></head>
+  <body>
+    <h1>🐸TTS/gruut Voice Samples</h1>
+    <p>Voices samples generated with <a href="https://github.com/coqui-ai/TTS">🐸TTS</a> and <a href="https://github.com/rhasspy/gruut">gruut</a></p>
+    <hr>
+    @BODY@
+  </body>
+</html>
